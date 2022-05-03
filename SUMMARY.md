@@ -9,3 +9,4 @@
 * [5. 常识篇](https://qgao233.github.io/qgaoCommonSense)
 * [6. 找工作准备篇](https://qgao233.github.io/qgaoPrepareForJob)
 * [7. 音乐理论篇](https://qgao233.github.io/qgaoMusicTheory)
+* [8. 工作知识篇](https://qgao233.github.io/qgaoWorkKnowledge)
