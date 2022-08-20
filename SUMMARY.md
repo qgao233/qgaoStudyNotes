@@ -11,3 +11,5 @@
 * [7. 音乐理论篇](https://qgao233.github.io/qgaoMusicTheory)
 * [8. 工作知识篇](https://qgao233.github.io/qgaoWorkKnowledge)
 * [9. 炒股学习篇](https://qgao233.github.io/qgaoStockStudy)
+* [10. vue3篇](https://qgao233.github.io/qgaoVue3Study)
+* [11. python3篇](https://qgao233.github.io/qgaoPython3Study)
